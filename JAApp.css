@@ -1,3 +1,8 @@
+/* Credits:
+ * productivity icon by Gregor Črešnar
+ *
+ */
+
 /* for viewport */
 body {
     /* TODO: background ?*/
@@ -16,22 +21,7 @@ img {
     width: 50%;
 }
 
-.name {
-    font: Helvetica;
-    color: rgb(0,0,0);
-}
-
-.name:after {
-    content: " - PRE";
-    color: rgba(190,110,190,0.6);
-}
-
-.name .prod:after {
-    content: " - PROD";
-    color: rgba(190,255,190,1);
-}
-
-.person {
+div.person {
     float: left;
     width: 25%;
 }
@@ -40,9 +30,26 @@ span.D {
     float: left;
     width: 25%;
     color: blue;
+    text-shadow: 1px 1px black;
 }
 
 .D:before {
     content: "D";
-    font-family: Ubuntu;
 }
+
+.future {
+    color: rgba(37,195,139,0.4) !important; /*color is set in D as well, so*/
+    font-style: oblique; /*slants normal*/
+}
+
+.name {
+    color: rgb(0,0,0);
+}
+
+.prod {
+    color: rgba(190,55,190,1);
+}
+.prod:after {
+    content: " " url(nprod.png);
+}/*TODO: tooltip na hover: http://www.menucool.com/tooltip/css-tooltip */
+
