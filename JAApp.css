@@ -1,0 +1,48 @@
+/* for viewport */
+body {
+    /* TODO: background ?*/
+    margin-left: auto;
+    margin-right: auto;
+    width: 96%;
+}
+
+.main {
+    width: 100%;
+}
+
+/* for portrait */
+img {
+    float: left;
+    width: 50%;
+}
+
+.name {
+    font: Helvetica;
+    color: rgb(0,0,0);
+}
+
+.name:after {
+    content: " - PRE";
+    color: rgba(190,110,190,0.6);
+}
+
+.name .prod:after {
+    content: " - PROD";
+    color: rgba(190,255,190,1);
+}
+
+.person {
+    float: left;
+    width: 25%;
+}
+
+span.D {
+    float: left;
+    width: 25%;
+    color: blue;
+}
+
+.D:before {
+    content: "D";
+    font-family: Ubuntu;
+}
