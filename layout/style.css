@@ -21,6 +21,13 @@
 
     	background-color: blue;
 }
+
+.imgresize{
+    height: 50%; 
+    width: 50%; 
+    max-width: 200px; 
+    max-height: 200px;
+}
 [class*="col-"] {
     float: left;
     padding: 15px;

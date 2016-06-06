@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8">
+    <title>Darmowy Kurs CSS</title>
+  </head>
+  <body>
+	<div class="col-12 context">
+		<div class="col-3 items"  >
+			<div class="col-6 photo"  >
+
+			</div>
+			<div class="col-6 about"  >
+			</div>
+		</div>
+		<div class="col-3 items"  >
+			<div class="col-6 photo"  >
+			</div>
+			<div class="col-6 about"  >
+			</div>
+		</div>
+		<div class="col-3 items"  >
+			<div class="col-6 photo"  >
+			</div>
+			<div class="col-6 about"  >
+			</div>
+		</div>
+		<div class="col-3 items"  >
+			<div class="col-6 photo"  >
+			</div>
+			<div class="col-6 about"  >
+			</div>
+		</div>
+
+		<div class="col-3 items"  >
+			<div class="col-6 photo"  >
+
+			</div>
+			<div class="col-6 about"  >
+			</div>
+		</div>
+		<div class="col-3 items"  >
+			<div class="col-6 photo"  >
+			</div>
+			<div class="col-6 about"  >
+			</div>
+		</div>
+		<div class="col-3 items"  >
+			<div class="col-6 photo"  >
+			</div>
+			<div class="col-6 about"  >
+			</div>
+		</div>
+		<div class="col-3 items"  >
+			<div class="col-6 photo"  >
+			</div>
+			<div class="col-6 about"  >
+			</div>
+		</div>
+
+
+		<div class="col-3 items"  >
+			<div class="col-6 photo"  >
+
+			</div>
+			<div class="col-6 about"  >
+			</div>
+		</div>
+		<div class="col-3 items"  >
+			<div class="col-6 photo"  >
+			</div>
+			<div class="col-6 about"  >
+			</div>
+		</div>
+		<div class="col-3 items"  >
+			<div class="col-6 photo"  >
+			</div>
+			<div class="col-6 about"  >
+			</div>
+		</div>
+		<div class="col-3 items"  >
+			<div class="col-6 photo"  >
+			</div>
+			<div class="col-6 about"  >
+			</div>
+		</div>
+
+
+		<div class="col-3 items"  >
+			<div class="col-6 photo"  >
+
+			</div>
+			<div class="col-6 about"  >
+			</div>
+		</div>
+		<div class="col-3 items"  >
+			<div class="col-6 photo"  >
+			</div>
+			<div class="col-6 about"  >
+			</div>
+		</div>
+		<div class="col-3 items"  >
+			<div class="col-6 photo"  >
+			</div>
+			<div class="col-6 about"  >
+			</div>
+		</div>
+		<div class="col-3 items"  >
+			<div class="col-6 photo"  >
+			</div>
+			<div class="col-6 about"  >
+			</div>
+		</div>
+
+		
+	</div>
+  </body>
+</html>
