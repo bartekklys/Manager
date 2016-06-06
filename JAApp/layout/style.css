@@ -1,0 +1,87 @@
+*{
+    box-sizing: border-box;
+}
+
+.items {
+    height: 340px;
+    max-width: 300px;
+    background-size: 100% auto; 
+    
+}
+.context
+{
+    background-color: #FFFFFF;	 
+    padding: 30px;
+}
+
+.backgroundphoto
+{
+    background-repeat: no-repeat;
+    background-image: url("ProdDesk.png");
+    height: 340px;
+    max-width: 300px;
+    background-size: 100% auto; 
+}
+.about
+{	 
+    background-color: blue;
+}
+.imgresize{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:30%;
+    height:20%;
+    max-width: 220px; 
+    max-height: 220px;
+}
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+}
+@media all and (min-width: 960px) {
+    body{
+        font-size: 18px;
+    }
+}
+
+/* For mobile phones: */
+[class*="col-"] {
+    width: 100%;
+}
+
+@media only screen and (min-width: 540px) {
+    /* For desktop: */
+    .col-1 {width: 50%;}
+    .col-2 {width: 50%;}
+    .col-3 {width: 50%;}
+    .col-4 {width: 50%;}
+    .col-5 {width: 50%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+}
+
+
+@media only screen and (min-width: 900px)   {
+    /* For desktop: */
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+}
+
+
+
