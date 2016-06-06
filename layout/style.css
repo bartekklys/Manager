@@ -5,28 +5,38 @@
 .items {
 	margin-top: 10px;
 	margin-bottom: 10px;
+ 
+      padding: 20px;
     	background-color: lightblue;
 }
 .context
 {	 
+    display: block;
     	background-color: red;
+        margin: auto;
 }
 
-.photo
-{	 
-    	background-color: green;
+.backgroundphoto
+{
+    background-repeat: no-repeat;
+    background-image: url("ProdDesk.png");
+    height: 300px;
+    max-width: 300px;
+    background-size: 100% auto; 
 }
 .about
 {	 
 
     	background-color: blue;
 }
-
 .imgresize{
-    height: 50%; 
-    width: 50%; 
-    max-width: 200px; 
-    max-height: 200px;
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:20%;
+    height:20%;
+    max-width: 220px; 
+    max-height: 220px;
 }
 [class*="col-"] {
     float: left;
@@ -60,7 +70,7 @@
 }
  
 
-@media only screen and (min-width: 800px)   {
+@media only screen and (min-width: 900px)   {
     /* For desktop: */
     .col-1 {width: 8.33%;}
     .col-2 {width: 16.66%;}
