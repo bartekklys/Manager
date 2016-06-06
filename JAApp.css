@@ -21,10 +21,19 @@ img {
     width: 50%;
 }
 
-div.person {
+article.person {
+/*shorthand for column-count column-width*/
+    columns: 2 50em; 
+    -moz-columns: 2 50em;
+    column-gap: 2em;
+    -moz-column-gap: 2em;
+    column-rule: 2px dotted #999;
+    -moz-column-rule: 2px dotted #999;
     float: left;
     width: 25%;
+    word-wrap: break-word;
 }
+
 
 span.D {
     float: left;
@@ -49,7 +58,16 @@ span.D {
 .prod {
     color: rgba(190,55,190,1);
 }
-.prod:after {
-    content: " " url(nprod.png);
+.prod:before {
+    content: url(nprod.png) " ";
 }/*TODO: tooltip na hover: http://www.menucool.com/tooltip/css-tooltip */
+
+ul#icons {
+    list-style: none;
+}
+ul li {
+    margin: 10px;
+}
+li:hover { margin-top: -3px; }
+
 
