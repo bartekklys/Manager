@@ -11,7 +11,7 @@
 		<nav>
 			<ul>
 				<li><a href="" title="Ja-materials">JA Materials</a></li>
-				<li><a href="" title="Stack">Stack</a></li>
+				<li><a href="" title="Slack">Slack</a></li>
 				<li><a href="" title="Assestments">Assestments</a></li>
 			</ul>
 		</nav>
@@ -22,27 +22,97 @@
 			<img src="photo.jpg" alt="FacePhoto" class="face-photo">
 			<nav>
 				<ul>
-					<li><a href="" title="UPSA">UPSA</a></li>
-					<li><a href="" title="VTS">VTS</a></li>
-					<li><a href="" title="STAS">STAS</a></li>
-					<li><a href="" title="HERO">BADGES</a></li>
+					<li><a href="" title="Personal User System">UPSA</a></li>
+					<li><a href="" title="Vacation Tracking System">VTS</a></li>
+					<li><a href="" title="User Statistics">STAS</a></li>
+					<li><a href="" title="HERO Portal">BADGES</a></li>
 				</ul>
 			</nav>
 		</article>
 		<article class="person" id="Marcin_Bulawa">
-			<p>Marcin Buława</p>
-			<img src="photo.jpg" alt="FacePhoto">
-			<p>
-				<nav>
-					<ul>
-						<li><a href="" title="UPSA">UPSA</a></li>
-						<li><a href="" title="VTS">VTS</a></li>
-						<li><a href="" title="STAS">STAS</a></li>
-						<li><a href="" title="HERO">BADGES</a></li>
-					</ul>
-				</nav>
-			</p>
-		</article>			
+			<p class="name">Marcin Buława</p>
+			<img src="photo.jpg" alt="FacePhoto" class="face-photo">
+			<nav>
+				<ul>
+					<li><a href="" title="Personal User System">UPSA</a></li>
+					<li><a href="" title="Vacation Tracking System">VTS</a></li>
+					<li><a href="" title="User Statistics">STAS</a></li>
+					<li><a href="" title="HERO Portal">BADGES</a></li>
+				</ul>
+			</nav>
+		</article>
+		<article class="person" id="Bartek_Klys">
+			<p class="name">Bartek Kłys</p>
+			<img src="photo.jpg" alt="FacePhoto" class="face-photo">
+			<nav>
+				<ul>
+					<li><a href="" title="Personal User System">UPSA</a></li>
+					<li><a href="" title="Vacation Tracking System">VTS</a></li>
+					<li><a href="" title="User Statistics">STAS</a></li>
+					<li><a href="" title="HERO Portal">BADGES</a></li>
+				</ul>
+			</nav>
+		</article>
+		<article class="person" id="Bartek_Klys">
+			<p class="name">Bartek Kłys</p>
+			<img src="photo.jpg" alt="FacePhoto" class="face-photo">
+			<nav>
+				<ul>
+					<li><a href="" title="Personal User System">UPSA</a></li>
+					<li><a href="" title="Vacation Tracking System">VTS</a></li>
+					<li><a href="" title="User Statistics">STAS</a></li>
+					<li><a href="" title="HERO Portal">BADGES</a></li>
+				</ul>
+			</nav>
+		</article>
+		<article class="person" id="Bartek_Klys">
+			<p class="name">Bartek Kłys</p>
+			<img src="photo.jpg" alt="FacePhoto" class="face-photo">
+			<nav>
+				<ul>
+					<li><a href="" title="Personal User System">UPSA</a></li>
+					<li><a href="" title="Vacation Tracking System">VTS</a></li>
+					<li><a href="" title="User Statistics">STAS</a></li>
+					<li><a href="" title="HERO Portal">BADGES</a></li>
+				</ul>
+			</nav>
+		</article>
+		<article class="person" id="Bartek_Klys">
+			<p class="name">Bartek Kłys</p>
+			<img src="photo.jpg" alt="FacePhoto" class="face-photo">
+			<nav>
+				<ul>
+					<li><a href="" title="Personal User System">UPSA</a></li>
+					<li><a href="" title="Vacation Tracking System">VTS</a></li>
+					<li><a href="" title="User Statistics">STAS</a></li>
+					<li><a href="" title="HERO Portal">BADGES</a></li>
+				</ul>
+			</nav>
+		</article>
+		<article class="person" id="Bartek_Klys">
+			<p class="name">Bartek Kłys</p>
+			<img src="photo.jpg" alt="FacePhoto" class="face-photo">
+			<nav>
+				<ul>
+					<li><a href="" title="Personal User System">UPSA</a></li>
+					<li><a href="" title="Vacation Tracking System">VTS</a></li>
+					<li><a href="" title="User Statistics">STAS</a></li>
+					<li><a href="" title="HERO Portal">BADGES</a></li>
+				</ul>
+			</nav>
+		</article>
+		<article class="person" id="Bartek_Klys">
+			<p class="name">Bartek Kłys</p>
+			<img src="photo.jpg" alt="FacePhoto" class="face-photo">
+			<nav>
+				<ul>
+					<li><a href="" title="Personal User System">UPSA</a></li>
+					<li><a href="" title="Vacation Tracking System">VTS</a></li>
+					<li><a href="" title="User Statistics">STAS</a></li>
+					<li><a href="" title="HERO Portal">BADGES</a></li>
+				</ul>
+			</nav>
+		</article>	
 	</section>
 	<footer>
 		<p>CopyRights Epam 2016</p>

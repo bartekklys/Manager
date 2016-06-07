@@ -1,15 +1,25 @@
 .person {
-	background-image: url("ProdDesk.png");
+	background-image: url("NormalDesk.png");
 	background-repeat: no-repeat;
-	width: 25%;
+	background-size: 100% 100%;
+	width: 20%;
 	min-height: 520px;
 	padding: 20px;
-
+	float: left;
 }
 
 .name {
+	margin-right: 8%; 
 	color: white;
 	text-align: center;
+}
+
+nav {
+	float: right;
+}
+
+footer {
+	clear: both;
 }
 
 article nav {
@@ -18,6 +28,6 @@ article nav {
 
 img {
 	size: 5% 5%;
-	margin-left: 37%;
+	margin-left: 35%;
 	margin-bottom: 25%;
 }
