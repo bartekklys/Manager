@@ -61,8 +61,9 @@ img {
 	position: absolute;
 	background-color: #0666C0;
 	min-width: 160px;
-	
+	overflow: auto;
 	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	right: 0;
 }
 
 .dropdown-content ul li a {
