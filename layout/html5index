@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>JA App</title>
+	<link rel="stylesheet" href="FullDellStyle.css">
+</head>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="" title="Ja-materials">JA Materials</a></li>
+				<li><a href="" title="Stack">Stack</a></li>
+				<li><a href="" title="Assestments">Assestments</a></li>
+			</ul>
+		</nav>
+	</header>
+	<section>
+		<article class="person" id="Adam_Lasota">
+			<p class="name">Adam Lasota</p>
+			<img src="photo.jpg" alt="FacePhoto" class="face-photo">
+			<nav>
+				<ul>
+					<li><a href="" title="UPSA">UPSA</a></li>
+					<li><a href="" title="VTS">VTS</a></li>
+					<li><a href="" title="STAS">STAS</a></li>
+					<li><a href="" title="HERO">BADGES</a></li>
+				</ul>
+			</nav>
+		</article>
+		<article class="person" id="Marcin_Bulawa">
+			<p>Marcin Buława</p>
+			<img src="photo.jpg" alt="FacePhoto">
+			<p>
+				<nav>
+					<ul>
+						<li><a href="" title="UPSA">UPSA</a></li>
+						<li><a href="" title="VTS">VTS</a></li>
+						<li><a href="" title="STAS">STAS</a></li>
+						<li><a href="" title="HERO">BADGES</a></li>
+					</ul>
+				</nav>
+			</p>
+		</article>			
+	</section>
+	<footer>
+		<p>CopyRights Epam 2016</p>
+	</footer>
+</body>
+</html>
